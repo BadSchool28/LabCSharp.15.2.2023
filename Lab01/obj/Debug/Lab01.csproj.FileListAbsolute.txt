@@ -1,0 +1,8 @@
+D:\C#folder\LabCSharp.15.2.2023\Lab01\bin\Debug\Lab01.exe.config
+D:\C#folder\LabCSharp.15.2.2023\Lab01\bin\Debug\Lab01.exe
+D:\C#folder\LabCSharp.15.2.2023\Lab01\bin\Debug\Lab01.pdb
+D:\C#folder\LabCSharp.15.2.2023\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\C#folder\LabCSharp.15.2.2023\Lab01\obj\Debug\Lab01.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\LabCSharp.15.2.2023\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\C#folder\LabCSharp.15.2.2023\Lab01\obj\Debug\Lab01.exe
+D:\C#folder\LabCSharp.15.2.2023\Lab01\obj\Debug\Lab01.pdb
